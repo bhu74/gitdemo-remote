@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 New file created after orig file5 moved to f1 branch
+=======
+This is a new file created on 3rd-May
+
+Added line 1 in f1 branch - Before merge
+Added line 2 in f1 branch - Before merge
+
